@@ -1,7 +1,6 @@
-
 ---
 layout: "slide"
 title: "Welcome to our second slide!"
 ---
-Your text
+I change this line 5
 Use the right arrow to go back!
